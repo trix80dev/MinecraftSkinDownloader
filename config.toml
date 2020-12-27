@@ -1,0 +1,5 @@
+
+[Connection]
+  LocalAddress = "0.0.0.0:19132"
+  RemoteAddress = "hivebedrock.network:19132"
+  Token = ""
